@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩🏻‍💻 Álvaro Miguel
+# 👩🏻‍💻 Vitor Pupim
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou cursando Sistemas de Informação no IFSP-Votuporanga. Sou apaixonado por tecnologia, compartilho meus conhecimentos e desafios no perfil do LinkedIn [Álvaro Miguel](https://www.linkedin.com/in/álvaro-miguel-1b4606331/).
+Me chamo Vitor Pupim, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio em escola privada e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. gosto de tecnologia,jogos,piscadas e Cs2.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
