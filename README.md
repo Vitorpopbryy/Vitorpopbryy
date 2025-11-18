@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vitor Pupim, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio em escola privada e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. gosto de tecnologia,jogos,piscadas e Cs2.
+Me chamo Vitor Pupim, tenho 16 anos e sou natural de São Paulo. Faço o ensino médio em escola publica juntamente com o curso técnico informática para Internet integrado no ensino medio na ETEC. Armando José Farinazzo em Fernandópolis-SP. gosto de tecnologia,jogos,piscadas e Cs2.
 
 
 ---
